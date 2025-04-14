@@ -49,4 +49,3 @@ These findings have implications for law enforcement strategies, suggesting a ne
 - More thorough data validation and cleaning to address potential errors in the dataset.
 - The impact of economic stability on crime rates in Vancouver, especially post-COVID-19.
 
-For any questions or further inquiries, please contact [Your Name] at [Your Email Address].
